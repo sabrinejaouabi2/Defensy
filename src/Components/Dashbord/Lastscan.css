@@ -1,0 +1,27 @@
+
+
+/* Classe de style pour les cercles de score */
+.score-circle {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 12px;
+    margin-right: 5px;
+  }
+  
+  
+  
+ 
+/* Dans votre fichier CSS */
+.most-critical-table {
+  width: 100%; /* Utiliser 100% pour occuper toute la largeur du parent (le Card) */
+}
+
+/* Ajustez les styles du tableau */
+.ant-table {
+  width: 100%; /* Occuper toute la largeur du parent (.most-critical-table) */
+}

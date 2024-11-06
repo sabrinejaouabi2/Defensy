@@ -1,0 +1,28 @@
+/* Affichage.css */
+
+/* Classe de style pour les cercles de score */
+.score-circle {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 12px;
+    margin-right: 5px;
+  }
+  
+  /* Styles de couleur pour les cercles de score */
+  .score-a {
+    background-color: #768DCE;
+    color: #0C3CC8;
+  }
+  
+  .score-b {
+    background-color: green;
+    color: white;
+  }
+  
+  
+  

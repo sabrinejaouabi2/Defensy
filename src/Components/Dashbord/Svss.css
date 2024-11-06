@@ -1,0 +1,6 @@
+/* Dans votre fichier SimpleTable.css */
+.plain-row {
+    background-color: transparent !important;
+    border: none !important;
+  }
+  
